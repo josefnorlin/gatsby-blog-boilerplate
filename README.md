@@ -32,6 +32,12 @@ npm install --global gatsby-cli
 3) Create a new Gatsby project using this github rep:
 gatsby new gatsby-blog-boilerplate https://github.com/josefnorlin/gatsby-blog-boilerplate
 
+4) Open the folder: cd gatsby-blog-boilerplate
+
+5) Install it: npm install
+
+6) Run the setup: npm run setup -- --spaceId tyz8w5nhoib9 --deliveryToken [get-from-contentful] --managementToken [get-from-contentful]
+
 
 RUN LOCALLY:
 1) Go to your folder (cd [folder location])
