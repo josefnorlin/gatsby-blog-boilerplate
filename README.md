@@ -29,10 +29,12 @@ This project is based on the contentful-starter project. Read more about it here
 2) Install the Gatsby CLI
 npm install --global gatsby-cli
 
-3) Create a new Gatsby project using this github rep
+3) Create a new Gatsby project using this github rep:
+
 gatsby new contentful-starter https://github.com/josefnorlin/gatsby-blog-boilerplate
 
-4) When that is up and running, go to that directory and the following command
+4) When that is up and running, go to that directory and the following command:
+
 gatsby new gatsby-blog-boilerplate https://github.com/josefnorlin/gatsby-blog-boilerplate
 
 
