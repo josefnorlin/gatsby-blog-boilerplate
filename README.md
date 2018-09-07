@@ -33,10 +33,6 @@ npm install --global gatsby-cli
 
 gatsby new contentful-starter https://github.com/josefnorlin/gatsby-blog-boilerplate
 
-4) When that is up and running, go to that directory and the following command:
-
-gatsby new gatsby-blog-boilerplate https://github.com/josefnorlin/gatsby-blog-boilerplate
-
 
 RUN LOCALLY:
 1) Go to your folder (cd [folder location])
