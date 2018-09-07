@@ -1,7 +1,7 @@
 # gatsby-blog-boilerplate
 
 Get fast up and running with a blog boilerplate using static page generator using Gatsby (a blazing-fast static site generator for React) and a CMS with Contentful hosted by Netlify.
-
+ 
 ## Contribution
 
 This project is based on the contentful-starter project. Read more about it here: https://github.com/contentful-userland/about.
@@ -26,11 +26,11 @@ This project is based on the contentful-starter project. Read more about it here
     Run this command in the terminal (Ctrl + Alt + T)
     sudo apt update && sudo apt install nodejs
 
-2) Install the Gatsby §§CLI
+2) Install the Gatsby CLI
 npm install --global gatsby-cli
 
 3) Create a new Gatsby project using this github rep
-gatsby new contentful-starter https://github.com/contentful-userland/gatsby-contentful-starter
+gatsby new contentful-starter https://github.com/josefnorlin/gatsby-blog-boilerplate
 
 4) When that is up and running, go to that directory and the following command
 gatsby new gatsby-blog-boilerplate https://github.com/josefnorlin/gatsby-blog-boilerplate
